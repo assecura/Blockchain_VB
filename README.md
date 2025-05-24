@@ -9,10 +9,10 @@ Dieses Projekt definiert ein realistisches Prozessmodell zur Ausstellung und Üb
 
 ## 🧠 Was wird hier gelöst?
 
-- Kein Papierkram & keine PDF-Fälschungen mehr
+- Kein Papierkram & kein Missbrauch
 - Einfache Verifizierung von Versicherungen über NFT-ID
 - Zugriff auf sensible Daten nur für autorisierte Parteien
-- Kontrolle über Vertragsdetails beim Nutzer
+- Kontrolle über Vertragsdetails beim Nutzer Wallet ownwer 
 - DSGVO-konformes Datenmanagement
 
 ---
