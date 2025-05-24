@@ -12,7 +12,7 @@ Dieses Projekt definiert ein realistisches Prozessmodell zur Ausstellung und Üb
 - Kein Papierkram & kein Missbrauch
 - Einfache Verifizierung von Versicherungen über NFT-ID
 - Zugriff auf sensible Daten nur für autorisierte Parteien
-- Kontrolle über Vertragsdetails beim Nutzer Wallet ownwer 
+- Kontrolle über Vertragsdetails beim Nutzer Wallet owner 
 - DSGVO-konformes Datenmanagement
 
 ---
